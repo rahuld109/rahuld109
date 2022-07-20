@@ -1,8 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Rahul Dogra</h1>
 <h3 align="center">A self-taught full stack developer based in India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irahuldogra" alt="irahuldogra" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/deatryde" target="blank"><img src="https://img.shields.io/twitter/follow/deatryde?logo=twitter&style=for-the-badge" alt="deatryde" /></a> </p>
 
 - 🔭 I’m currently working on [rahuldogra.dev](https://www.rahuldogra.dev/)
@@ -16,6 +14,8 @@
 - 📫 How to reach me **rahuldogra1998@gmail.com**
 
 - ⚡ Fun fact **I want to do polar plunge someday.**
+
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
