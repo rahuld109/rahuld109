@@ -98,7 +98,7 @@
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <details open> 
-  <summary> 🔥 GitHub Streak stats</summary>
+  <summary> 🔥 GitHub Streak</summary>
   <br/>
   <a href="#"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irahuldogra&theme=chartreuse-dark" alt="irahuldogra" /></a>
   <br/>
