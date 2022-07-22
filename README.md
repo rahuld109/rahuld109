@@ -8,6 +8,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end+developer;Multi-language+programmer;Full-stack+developer;Game+developer;Always+learning+new+things&font=Frijole&center=true&width=580&height=45&color=7FFE00&vCenter=true&size=26"></a>
 </p>
 
+<img align="right" alt="Vibes" width="300" src="https://media3.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif?cid=ecf05e47x59s9ai3rqixdnmihiwm8jjad3soik9yk6o9jcbu&rid=giphy.gif&ct=s">
+
 - 🔭 I’m currently working on [rahuldogra.dev](https://www.rahuldogra.dev/)
 
 - 🌱 I’m currently learning **Go**
@@ -103,8 +105,9 @@
 </details>
 
 
-
-
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/irahuldogra"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="irahuldogra" /></a><a href="https://ko-fi.com/irahuldogra"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="irahuldogra" /></a></p><br><br>
+## Support: 
+<p>
+  <a href="https://www.buymeacoffee.com/irahuldogra"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="RahulDogra's Buymecoffe Profile" />
+  </a>
+  <a href="https://ko-fi.com/irahuldogra"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="180" alt="RahulDogra's Ko-Fi Profile" />   </a>
+</p>
