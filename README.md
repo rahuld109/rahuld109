@@ -1,5 +1,12 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Rahul Dogra</h1>
-<h3 align="center">A self-taught full stack developer based in India</h3>
+<h3 align="center">
+  Welcome to Rahul Dogra's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end+developer;Multi-language+programmer;Full-stack+developer;Game+developer;Always+learning+new+things&font=Frijole&center=true&width=580&height=45&color=FE6E95FF&vCenter=true&size=26"></a>
+</p>
 
 - 🔭 I’m currently working on [rahuldogra.dev](https://www.rahuldogra.dev/)
 
