@@ -23,18 +23,13 @@
 
 ## Connect with me:
 
-<p align="left">
-  <a href="https://dev.to/deatryde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="deatryde" height="30" width="40" /></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/deatryde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deatryde" height="30" width="40" /></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/irahuldogra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/irahuldogra/" height="30" width="40" /></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14004156/rahul-dogra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14004156/rahul-dogra" height="30" width="40" /></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.leetcode.com/https://leetcode.com/deatryde/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/deatryde/" height="30" width="40" /></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
+[![Website](https://img.shields.io/badge/website-CCCCCC?style=for-the-badge&logo=About.me&logoColor=black)](https://www.rahuldogra.dev/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/deatryde)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/irahuldogra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irahuldogra/)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14004156/rahul-dogra)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/irahuldogra)
+[![GitHub](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/deatryde/)
 
 ## 🛠️ My favorite technologies
 
