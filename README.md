@@ -5,7 +5,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end+developer;Multi-language+programmer;Full-stack+developer;Game+developer;Always+learning+new+things&font=Frijole&center=true&width=580&height=45&color=FE6E95FF&vCenter=true&size=26"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end+developer;Multi-language+programmer;Full-stack+developer;Game+developer;Always+learning+new+things&font=Frijole&center=true&width=580&height=45&color=7FFE00&vCenter=true&size=26"></a>
 </p>
 
 - 🔭 I’m currently working on [rahuldogra.dev](https://www.rahuldogra.dev/)
@@ -40,11 +40,11 @@
 
 
 <p align = "left">
-    <img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irahuldogra&layout=compact&theme=dracula">
+    <img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irahuldogra&layout=compact&theme=chartreuse-dark">
 </p>
 
 <p align="left">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irahuldogra&theme=dracula" alt="irahuldogra" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irahuldogra&theme=chartreuse-dark" alt="irahuldogra" />
 </p>
 
 
