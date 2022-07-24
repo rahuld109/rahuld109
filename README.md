@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 💬 Ask me about **react, node, phaser**
+- 💬 Ask me about **anything js related**
 
 - 📫 How to reach me **twitter @deatryde**
 
