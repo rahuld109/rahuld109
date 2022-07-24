@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 💬 Ask me about **anything js related**
+- 💬 Ask me about **related to javascript**
 
 - 📫 How to reach me **twitter @deatryde**
 
