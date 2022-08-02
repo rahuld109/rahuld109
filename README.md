@@ -8,7 +8,7 @@
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end+developer;Multi-language+programmer;Full-stack+developer;Game+developer;Always+learning+new+things&font=Frijole&center=true&width=580&height=45&color=7FFE00&vCenter=true&size=26"></a>
 </p>
 
-<img href="#" align="right" alt="Vibes" width="300" src="https://media3.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif?cid=ecf05e47x59s9ai3rqixdnmihiwm8jjad3soik9yk6o9jcbu&rid=giphy.gif&ct=s">
+<a href="#"><img align="right" alt="Vibes" width="300" src="https://media3.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif?cid=ecf05e47x59s9ai3rqixdnmihiwm8jjad3soik9yk6o9jcbu&rid=giphy.gif&ct=s"></a>
 
 - 🔭 I’m currently working on [rahuldogra.dev](https://www.rahuldogra.dev/)
 
