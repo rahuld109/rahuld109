@@ -12,11 +12,11 @@
 
 - 🔭 I’m currently working on [rahuldogra.dev](https://www.rahuldogra.dev/)
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently fascinated by **Go**
 
 - 💬 Ask me about **related to javascript**
 
-- 📫 How to reach me **twitter @deatryde**
+- 📫 How to reach me **twitter @_rahuldogra**
 
 - ⚡ Fun fact **I want to do polar plunge someday.**
 
