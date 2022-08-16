@@ -41,7 +41,7 @@
     <a href="#"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
     <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
     <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white">     </a>
+    <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
     <a href="#"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
@@ -51,8 +51,11 @@
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC.svg?logo=redux&logoColor=white"></a>
     <a href="#"><img alt="Vue" src="https://img.shields.io/badge/Vue-4FC08D.svg?logo=vuedotjs&logoColor=white"></a>
+    <a href="#"><img alt="Svelte" src="https://img.shields.io/badge/Svelte-FF3E00.svg?logo=svelte&logoColor=white"></a>
+    <a href="#"><img alt="Astro" src="https://img.shields.io/badge/Astro-FF5D01.svg?logo=astro&logoColor=white"></a>
     <a href="#"><img alt="AngularJS" src="https://img.shields.io/badge/AngularJS-E23237.svg?logo=angularjs&logoColor=white"></a>
-    <a href="#"><img alt="Next" src="https://img.shields.io/badge/Next-000000.svg?logo=nextdotjs&logoColor=white"></a>
+    <a href="#"><img alt="Next" src="https://img.shields.io/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=white"></a>
+    <a href="#"><img alt="NuxtJS" src="https://img.shields.io/badge/Nuxt.js-00DC82.svg?logo=nuxt.js&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
     <a href="#"><img alt="NestJS" src="https://img.shields.io/badge/Nest-E0234E.svg?logo=nestjs&logoColor=white"></a>
