@@ -18,13 +18,6 @@
 
 - 📫 How to reach me **twitter @_rahuldogra**
 
-- ⚡ Fun fact **I want to do polar plunge someday.**
-
-
-
-
-
-
 ## Connect with me:
 
 [![Website](https://img.shields.io/badge/website-CCCCCC?style=for-the-badge&logo=About.me&logoColor=black)](https://www.rahuldogra.dev/)
