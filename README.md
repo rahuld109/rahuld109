@@ -89,7 +89,7 @@
 <details open> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-  <a href="#"> <img alt="RahulDogra's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irahuldogra&layout=compact&theme=chartreuse-dark"></a>
+  <a href="#"> <img alt="RahulDogra's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irahuldogra&langs_count=6&layout=compact&theme=chartreuse-dark&hide=CSS,Jupyter%20Notebook,html"></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
