@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently working on [rahuldogra.dev](https://www.rahuldogra.dev/)
 
-- 🌱 I’m currently fascinated by **Go**
+- 🌱 I’m currently fascinated by **Go** And **Typescript**
 
-- 💬 Ask me about **related to javascript**
+- 💬 Ask me about **related to full stack development**
 
 - 📫 How to reach me **twitter @_rahuldogra**
 
