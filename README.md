@@ -107,7 +107,7 @@
 <details open> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-  <a href="#"> <img alt="RahulDogra's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&langs_count=6&layout=compact&theme=chartreuse-dark&hide=CSS,Jupyter%20Notebook,html"></a>
+  <a href="#"> <img alt="RahulDogra's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahuld109&langs_count=6&layout=compact&theme=chartreuse-dark&hide=CSS,Jupyter%20Notebook,html"></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
@@ -116,7 +116,7 @@
 <details open> 
   <summary> 🔥 GitHub Streak</summary>
   <br/>
-  <a href="#"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=&theme=chartreuse-dark" alt="rahuld109" /></a>
+  <a href="#"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahuld109&theme=chartreuse-dark" alt="rahuld109" /></a>
   <br/>
 </details>
 
