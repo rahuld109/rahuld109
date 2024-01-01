@@ -41,11 +41,9 @@
     <a href="#"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
     <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
     <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
     <a href="#"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-    <a href="#"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
     <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
     <a href="#"><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white"></a>
 </p>
@@ -57,19 +55,14 @@
     <a href="#"><img alt="Vue" src="https://img.shields.io/badge/Vue-4FC08D.svg?logo=vuedotjs&logoColor=white"></a>
     <a href="#"><img alt="Svelte" src="https://img.shields.io/badge/Svelte-FF3E00.svg?logo=svelte&logoColor=white"></a>
     <a href="#"><img alt="Astro" src="https://img.shields.io/badge/Astro-FF5D01.svg?logo=astro&logoColor=white"></a>
-    <a href="#"><img alt="AngularJS" src="https://img.shields.io/badge/AngularJS-E23237.svg?logo=angularjs&logoColor=white"></a>
     <a href="#"><img alt="Next" src="https://img.shields.io/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=white"></a>
-    <a href="#"><img alt="NuxtJS" src="https://img.shields.io/badge/Nuxt.js-00DC82.svg?logo=nuxt.js&logoColor=white"></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
     <a href="#"><img alt="NestJS" src="https://img.shields.io/badge/Nest-E0234E.svg?logo=nestjs&logoColor=white"></a>
     <a href="#"><img alt="Babel" src="https://img.shields.io/badge/Babel-F9DC3E.svg?logo=babel&logoColor=white"></a>
     <a href="#"><img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9.svg?logo=webpack&logoColor=white"></a>
     <a href="#"><img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwindcss-06B6D4.svg?logo=tailwindcss&logoColor=white"></a>
     <a href="#"><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white"></a>
-    <a href="#"><img alt="ChartJs" src="https://img.shields.io/badge/Chart.js-FF6384.svg?logo=chartdotjs&logoColor=white"></a>
     <a href="#"><img alt="Strapi" src="https://img.shields.io/badge/-Strapi-2F2E8B?logo=strapi&logoColor=white"></a>
-    <a href="#"><img alt="UnrealEngine" src="https://img.shields.io/badge/Unreal-0E1128.svg?logo=unrealengine&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases and cloud hosting
@@ -89,9 +82,7 @@
 
 <p>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="CircleCI" src="https://img.shields.io/badge/Circle%20CI-343434.svg?logo=circleci&logoColor=white"></a>
