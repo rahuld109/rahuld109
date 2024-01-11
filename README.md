@@ -10,8 +10,6 @@
 
 <a href="#"><img align="right" alt="Vibes" width="300" src="https://media3.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif?cid=ecf05e47x59s9ai3rqixdnmihiwm8jjad3soik9yk6o9jcbu&rid=giphy.gif&ct=s"></a>
 
-- 🔭 I’m currently working on [rahuldogra.dev](https://www.rahuldogra.dev/)
-
 - 🌱 I’m currently fascinated by **Go** And **Typescript**
 
 - 💬 Ask me about **related to full stack development**
